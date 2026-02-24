@@ -34,7 +34,6 @@ I'm an Informatics student and a passionate developer who enjoys building robust
 - 🎓 **Education:** Informatics Student at Universitas Gunadarma
 - 💼 **Experience:** Programmer at Lab. Akuntansi Lanjut (IT maintenance & internal software dev)
 - 📜 **Certifications:** BNSP Computer Programming Competency (2022) & DBS Foundation Machine Learning Coding Camp
-- 🔭 **Currently working on:** A Java Swing management app (Apik Laundry) & a VB6 purchasing transaction system
 - 🌱 **Currently learning:** Advanced Data Science (NLP, Boosting algorithms like XGBoost/AdaBoost, and Image Processing)
 - ⚡ **Fun fact:** I can perfectly center a `div` in CSS
 
