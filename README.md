@@ -45,7 +45,7 @@ I'm an Informatics student and a passionate developer who enjoys building robust
 
 | Frontend | Backend & Database | Tools & DevOps |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,html,css,vue,react,tailwind" width="250" /> | <img src="https://skillicons.dev/icons?i=python,java,flask,supabase,mysql,postgres" width="250" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,idea" width="250" /> |
+| <img src="https://skillicons.dev/icons?i=js,html,css,vue,react,tailwind" width="250" /> | <img src="https://skillicons.dev/icons?i=python,java,flask,supabase,mysql,postgres" width="250" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" width="250" /> |
 
 </div>
 
