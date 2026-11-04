@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=58A6FF,20C20E&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=35&desc=I'm%20Girvan%20Azhar&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=58A6FF,20C20E&height=250&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=35&desc=I'm%20Mochamad%20Girvan%20Azhar&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+%26+Data+Science+%F0%9F%A4%96;Python+Enthusiast+%E2%98%95;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Software%20Developer+%F0%9F%92%BB;Data%20Analyst+%26%20Data%20Science+%F0%9F%A4%96;Python%20Enthusiast+%E2%98%95;" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -29,12 +29,12 @@
 
 ### ⚡ About Me
 
-I'm an Informatics student and a passionate developer who enjoys building robust applications, from scalable web platforms to integrated desktop systems. 
+I'm an Informatics graduate passionate about building robust applications, data analysis, and scalable pipelines.
 
-- 🎓 **Education:** Informatics Student at Universitas Gunadarma
-- 💼 **Experience:** Programmer at Lab. Akuntansi Lanjut (IT maintenance & internal software dev)
-- 📜 **Certifications:** BNSP Computer Programming Competency (2022) & DBS Foundation Machine Learning Coding Camp
-- 🌱 **Currently learning:** Advanced Data Science (NLP, Boosting algorithms like XGBoost/AdaBoost, and Image Processing)
+- 🎓 **Education:** S1 Informatika, Universitas Gunadarma (GPA: 3.52/4.00)
+- 💼 **Experience:** Programmer at Lab. Akuntansi Lanjut (IT maintenance & internal software dev) & Software Development Intern at PT Lingkar 9 Titian Media
+- 📜 **Certifications:** BNSP Associate Data Scientist & Computer Programming Competency
+- 🌱 **Currently exploring:** Advanced Data Analytics, Automation Pipelines (n8n), and Dashboard Visualizations
 - ⚡ **Fun fact:** I can perfectly center a `div` in CSS
 
 ---
@@ -43,9 +43,9 @@ I'm an Informatics student and a passionate developer who enjoys building robust
 
 <div align="center">
 
-| Frontend | Backend & Database | Tools & DevOps |
+| Frontend & UI/UX | Backend, Database & Data | Tools & DevOps |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,html,css,vue,react,tailwind" width="250" /> | <img src="https://skillicons.dev/icons?i=python,java,flask,supabase,mysql,postgres" width="250" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" width="250" /> |
+| <img src="https://skillicons.dev/icons?i=js,html,css,vue,react,tailwind,figma" width="280" /> | <img src="https://skillicons.dev/icons?i=python,java,flask,supabase,mysql,postgres" width="280" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" width="250" /> |
 
 </div>
 
