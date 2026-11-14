@@ -29,9 +29,10 @@
 
 ### ⚡ About Me
 
-I'm an Informatics graduate passionate about building robust applications, data analysis, and scalable pipelines.
+I'm an Informatics graduate passionate about data analysis, machine learning, and building dashboards that answer real questions with public data.
 
 - 🎓 **Education:** S1 Informatika, Universitas Gunadarma (GPA: 3.52/4.00)
+- 📊 **Portfolio:** Data and software projects on [girvanazhar.vercel.app](https://girvanazhar.vercel.app/), including Power BI, Tableau, and Looker Studio dashboards built from official Indonesian public data
 - 💼 **Experience:** Programmer at Lab. Akuntansi Lanjut (IT maintenance & internal software dev) & Software Development Intern at PT Lingkar 9 Titian Media
 - 📜 **Certifications:** BNSP Associate Data Scientist & Computer Programming Competency
 - 🌱 **Currently exploring:** Advanced Data Analytics, Automation Pipelines (n8n), and Dashboard Visualizations
@@ -49,6 +50,25 @@ I'm an Informatics graduate passionate about building robust applications, data 
 
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=lookerstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
+
+---
+
+### 📌 Featured Projects
+
+| Project | What it does | Tools |
+| --- | --- | --- |
+| [dana-desa-jawa-barat-power-bi](https://github.com/GirvanAzharXD/dana-desa-jawa-barat-power-bi) | Tests whether larger village funds mean lower poverty across 19 districts in West Java, 2024 | Power BI, DAX, Excel |
+| [harga-cabai-rawit-merah-looker-studio](https://github.com/GirvanAzharXD/harga-cabai-rawit-merah-looker-studio) | Tracks red chili prices across 32 provinces, Jan 2025-Nov 2026 | Looker Studio, Google Sheets |
+| [gempa-indonesia-tableau](https://github.com/GirvanAzharXD/gempa-indonesia-tableau) | Maps and trends earthquakes in Indonesia, M4.5+, 2024-2026 | Tableau Public, USGS API |
+| [Portfolio](https://github.com/GirvanAzharXD/Portfolio) | My personal portfolio website | React, Vite, Tailwind CSS |
+
 ---
 
 ### 🐍 Contribution Graph
@@ -62,25 +82,6 @@ I'm an Informatics graduate passionate about building robust applications, data 
 </div>
 
 ---
-
-### 🎧 Pinned Projects
-
-<div align="center">
-    <a href="https://github.com/GirvanAzharXD/aurithm-frontend">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=GirvanAzharXD&repo=aurithm-frontend&theme=radical&hide_border=true&bg_color=0D1117" />
-    </a>
-    <a href="https://github.com/GirvanAzharXD/4IA19_Kelompok2_ApikLaundry">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=GirvanAzharXD&repo=4IA19_Kelompok2_ApikLaundry&theme=radical&hide_border=true&bg_color=0D1117" />
-    </a>
-    <a href="https://github.com/GirvanAzharXD/Portfolio">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=GirvanAzharXD&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117" />
-    </a>
-    <a href="https://github.com/itslanaa/aReminderApp">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=itslanaa&repo=aReminderApp&theme=radical&hide_border=true&bg_color=0D1117" />
-    </a>
-</div>
-
-<br />
 
 <div align="center">
   <i>Let's connect and build something amazing together! 🚀</i>
